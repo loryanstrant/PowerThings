@@ -16,3 +16,10 @@ This Power Automate flow is as the name implies - you can create a task in To Do
 You can see an [overview and demo of it here](https://www.loryanstrant.com/2021/02/19/a-simple-workflow-to-create-a-to-do-task-from-microsoft-teams-messages/).
 
 
+### Home-office-availability-display
+
+This Power App displays your current availability as well as upcoming appointments.
+
+Designed to be used on a tablet mounted outside of your home office door, to show your availability to family members.
+
+You can [see it in action and an overview here](https://www.loryanstrant.com/2021/03/27/build-your-own-home-office-room-display-system/).
