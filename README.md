@@ -28,5 +28,7 @@ You can [see it in action and an overview here](https://www.loryanstrant.com/202
 ### MVP Renewal Checker
 
 This Power App displays whether you have been renewed as a MVP or not by checking whether you have received an email with "Congratulations" in the subject from the Microsoft Global MVP account.
+
 Created for the "scheduled maintenance" trolling as part of the MVP annual renewal cycle of 2022, and for literally no other purpose.
+
 You can see a [demo of it here](https://twitter.com/LoryanStrant/status/1543446263626354688).
