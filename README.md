@@ -23,3 +23,8 @@ This Power App displays your current availability as well as upcoming appointmen
 Designed to be used on a tablet mounted outside of your home office door, to show your availability to family members.
 
 You can [see it in action and an overview here](https://www.loryanstrant.com/2021/03/27/build-your-own-home-office-room-display-system/).
+
+
+### MVP Renewal Checker
+
+This Power App displays whether you have been renewed as a MVP or not by checking whether you have received an email with "Congratulations" in the subject from the Microsoft Global MVP account.
