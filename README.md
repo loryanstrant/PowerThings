@@ -32,3 +32,12 @@ This Power App displays whether you have been renewed as a MVP or not by checkin
 Created for the "scheduled maintenance" trolling as part of the MVP annual renewal cycle of 2022, and for literally no other purpose.
 
 You can see a [demo of it here](https://twitter.com/LoryanStrant/status/1543446263626354688).
+
+
+### Bloom Growth task sync with Microsoft To Do at scale
+
+This solution is a collection of workflows that allows organisations who use Bloom Growth to automatically synchronise tasks to Microsoft To Do, for all users.
+
+It utilises Power Automate to do the work, and Microsoft Graph to create the tasks in To Do.
+
+You can see the [full explanation of the solution here](https://www.loryanstrant.com/2023/02/25/synchronising-tasks-at-scale-between-bloom-growth-and-microsoft-to-do/).
