@@ -41,3 +41,12 @@ This solution is a collection of workflows that allows organisations who use Blo
 It utilises Power Automate to do the work, and Microsoft Graph to create the tasks in To Do.
 
 You can see the [full explanation of the solution here](https://www.loryanstrant.com/2023/02/25/synchronising-tasks-at-scale-between-bloom-growth-and-microsoft-to-do/).
+
+
+### What is my ID app
+
+One of the challenges with shared channels in Microsoft Teams is that collaboration with external parties may require knowing their Azure Active Directory object ID, in order to configure cross-tenant relationships.
+
+This app makes it easier for users to be able to retrieve at least their own ID to provide to a colleague, to provide to their IT team, to grant access.
+
+[Click here to download the app](https://github.com/loryanstrant/PowerThings/blob/main/WhatismyIDapp.zip)
