@@ -39,8 +39,11 @@ You can [see it in action and an overview here](https://www.loryanstrant.com/202
 
 ## My Power Platform
 
+This app and workflow combination allows you to easily find and access any of your Power Apps apps and Power Automate flows across any environment
+
 You can see a [writeup of the solution here](https://www.loryanstrant.com/.....)
 
+[Click here to download the solution](https://github.com/loryanstrant/PowerThings/blob/main/MyPowerPlatform.zip)
 
 
 ## MVP Renewal Checker
