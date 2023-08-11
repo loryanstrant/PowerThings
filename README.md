@@ -44,7 +44,9 @@ This app and workflow (with report option) combination allows you to easily find
 You can see a [writeup of the solution here](https://www.loryanstrant.com/2023/08/11/my-power-platform-finding-your-flows-and-apps-across-environments/)
 
 [Click here to download the Power Apps app](https://github.com/loryanstrant/PowerThings/blob/main/MyPowerPlatform-App.zip)
+
 [Click here to download the Power Automate flow](https://github.com/loryanstrant/PowerThings/blob/main/MyPowerPlatform-Flow.zip)
+
 [Click here to download the Power BI report template](https://github.com/loryanstrant/PowerThings/blob/main/MyPowerPlatform-Flow.pbit)
 
 
