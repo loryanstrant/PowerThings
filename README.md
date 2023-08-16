@@ -59,6 +59,18 @@ Created for the "scheduled maintenance" trolling as part of the MVP annual renew
 You can see a [demo of it here](https://twitter.com/LoryanStrant/status/1543446263626354688).
 
 
+## Scan for text on all SharePoint pages in a tenant
+
+This Power Automate workflow allows you to search for specific text in every page on every site in a tenant.
+
+It retrieves all SharePoint site collections from the admin center listing and then queries all pages within each site to see if they contain the specific text you're looking for.
+
+The output is then stored as a CSV in the SharePoint site of your choosing.
+
+Requires an Entra ID App Registration with Sites.Read.All application permissions, and an account that can use the HTTP connector.
+
+[Click here to download the workflow](https://github.com/loryanstrant/PowerThings/blob/main/ScanfortextonallSharePointpagesinatenant.zip)
+
 
 ## What is my ID app
 
