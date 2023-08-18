@@ -70,6 +70,7 @@ The output is then stored as a CSV in the SharePoint site of your choosing. Also
 Requires an Entra ID App Registration with Sites.Read.All application permissions, and an account that can use the HTTP connector.
 
 [Click here to download the workflow](https://github.com/loryanstrant/PowerThings/blob/main/ScanfortextonallSharePointpagesinatenant.zip)
+
 [Click here to download the Power BI template](https://github.com/loryanstrant/PowerThings/blob/main/SharePoint_text_search_report.pbit)
 
 
