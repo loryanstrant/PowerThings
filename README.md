@@ -18,7 +18,7 @@ You can see the [full explanation of the solution here](https://www.loryanstrant
 
 
 
-## Create-To-Do-task-from-Teams-message
+## Create To Do task from Teams message
 (this is no longer required as the functionality is now native in Microsoft Teams)
 
 This Power Automate flow is as the name implies - you can create a task in To Do from any Teams chat or channel message.
@@ -27,7 +27,7 @@ You can see an [overview and demo of it here](https://www.loryanstrant.com/2021/
 
 
 
-## Home-office-availability-display
+## Home office availability display
 
 This Power App displays your current availability as well as upcoming appointments.
 
@@ -37,11 +37,21 @@ You can [see it in action and an overview here](https://www.loryanstrant.com/202
 
 
 
+## MVP Renewal Checker
+
+This Power App displays whether you have been renewed as a MVP or not by checking whether you have received an email with "Congratulations" in the subject from the Microsoft Global MVP account.
+
+Created for the "scheduled maintenance" trolling as part of the MVP annual renewal cycle of 2022, and for literally no other purpose.
+
+You can see a [demo of it here](https://twitter.com/LoryanStrant/status/1543446263626354688).
+
+
+
 ## My Power Platform
 
 This app and workflow (with report option) combination allows you to easily find and access any of your Power Apps apps and Power Automate flows across any environment
 
-You can see a [writeup of the solution here](https://www.loryanstrant.com/2023/08/11/my-power-platform-finding-your-flows-and-apps-across-environments/)
+You can see a [writeup of the solution here](https://www.loryanstrant.com/2023/08/11/my-power-platform-finding-your-flows-and-apps-across-environments/).
 
 [Click here to download the Power Apps app](https://github.com/loryanstrant/PowerThings/blob/main/MyPowerPlatform-App.zip)
 
@@ -50,13 +60,17 @@ You can see a [writeup of the solution here](https://www.loryanstrant.com/2023/0
 [Click here to download the Power BI report template](https://github.com/loryanstrant/PowerThings/blob/main/MyPowerPlatform-Flow.pbit)
 
 
-## MVP Renewal Checker
 
-This Power App displays whether you have been renewed as a MVP or not by checking whether you have received an email with "Congratulations" in the subject from the Microsoft Global MVP account.
+## Privileged Identity Management (PIM) Elevations Reporter
 
-Created for the "scheduled maintenance" trolling as part of the MVP annual renewal cycle of 2022, and for literally no other purpose.
+The workflow and Power BI report extracts a daily history of elevations from PIM in Entra ID and presents them in a Power BI report that can be shared with people who do not have an admin role.
 
-You can see a [demo of it here](https://twitter.com/LoryanStrant/status/1543446263626354688).
+You can see a [writeup of the solution here](https://www.loryanstrant.com/2024/05/06/a-better-way-to-report-administrator-role-elevations-in-privileged-identity-management/).
+
+[Click here to download the Power Platform solution](https://github.com/loryanstrant/PowerThings/blob/main/PIM-Elevations-Reporter.zip)
+
+[Click here to download the Power BI report template](https://github.com/loryanstrant/PowerThings/blob/main/PIM-Elevations-Reporter.pbit)
+
 
 
 ## Scan for text on all SharePoint pages in a tenant
@@ -69,9 +83,12 @@ The output is then stored as a CSV in the SharePoint site of your choosing. Also
 
 Requires an Entra ID App Registration with Sites.Read.All application permissions, and an account that can use the HTTP connector.
 
+You can see a [writeup of the solution here](https://www.loryanstrant.com/2024/04/12/discover-embedded-stream-links-in-any-sharepoint-site-and-page/).
+
 [Click here to download the workflow](https://github.com/loryanstrant/PowerThings/blob/main/ScanfortextonallSharePointpagesinatenant.zip)
 
 [Click here to download the Power BI template](https://github.com/loryanstrant/PowerThings/blob/main/SharePoint_text_search_report.pbit)
+
 
 
 ## What is my ID app
@@ -79,5 +96,7 @@ Requires an Entra ID App Registration with Sites.Read.All application permission
 One of the challenges with shared channels in Microsoft Teams is that collaboration with external parties may require knowing their Azure Active Directory object ID, in order to configure cross-tenant relationships.
 
 This app makes it easier for users to be able to retrieve at least their own ID to provide to a colleague, to provide to their IT team, to grant access.
+
+You can see a [writeup of the solution here](https://www.loryanstrant.com/2023/04/19/helping-users-access-external-shared-channels-in-microsoft-teams/).
 
 [Click here to download the app](https://github.com/loryanstrant/PowerThings/blob/main/WhatismyIDapp.zip)
