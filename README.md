@@ -37,6 +37,16 @@ You can [see it in action and an overview here](https://www.loryanstrant.com/202
 
 
 
+## Microsoft 365 Copilot Trial Management
+
+This series of workflows captures trial license requests and facilitates the assignment of a Microsoft 365 Copilot license for a period of time, followed by a scheduled removal.
+
+You can see a [writeup of the solution here](https://www.loryanstrant.com/2024/10/10/automate-your-own-microsoft-365-copilot-trial-system/).
+
+[Click here to download the solution file](https://github.com/loryanstrant/PowerThings/blob/main/M365-Copilot-Trial-Management.zip)
+
+
+
 ## MVP Renewal Checker
 
 This Power App displays whether you have been renewed as a MVP or not by checking whether you have received an email with "Congratulations" in the subject from the Microsoft Global MVP account.
