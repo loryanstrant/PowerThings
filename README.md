@@ -47,6 +47,16 @@ You can see a [writeup of the solution here](https://www.loryanstrant.com/2024/1
 
 
 
+## Microsoft 365 Roadmap Report
+
+A Power BI report that provides you with statistics and a more visual way to navigate the Microsoft 365 roadmap, including more sorting & filtering options.
+
+You can see a [writeup of the solution here](https://www.loryanstrant.com/2024/10/14/the-microsoft-365-roadmap-now-with-more-sorting-filtering-and-statistics/).
+
+[Click here to download the Power BI report template](https://github.com/loryanstrant/PowerThings/blob/main/Microsoft-365-Roadmap.pbit)
+
+
+
 ## MVP Renewal Checker
 
 This Power App displays whether you have been renewed as a MVP or not by checking whether you have received an email with "Congratulations" in the subject from the Microsoft Global MVP account.
