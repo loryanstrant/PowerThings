@@ -93,6 +93,17 @@ You can see a [writeup of the solution here](https://www.loryanstrant.com/2024/0
 
 
 
+## Rename a new recording in OneDrive and/or move it to SharePoint
+
+This workflow runs when a new file appears in the Recordings folder in your OneDive. It then guides you through choices around renaming the file and moving it to a Team channel / SharePoint library folder.
+
+You can see a [writeup of the solution here](https://www.loryanstrant.com/2024/10/22/automatically-move-and-rename-teams-meeting-recordings/).
+
+[Click here to download the Power Automate workflow](https://github.com/loryanstrant/PowerThings/blob/main/Rename-new-recording-in-OneDrive-and-or-move-it-to-SharePoint.zip)
+
+
+
+
 ## Scan for text on all SharePoint pages in a tenant
 
 This Power Automate workflow allows you to search for specific text in every page on every site in a tenant.
