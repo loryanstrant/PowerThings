@@ -81,6 +81,18 @@ You can see a [writeup of the solution here](https://www.loryanstrant.com/2023/0
 
 
 
+## Power BI Tenant Settings Reporter
+
+This Power BI report visualises and provides an easy way to find what settings in your Power BI / Fabric tenant have been configured, what the setting is, whether it's restricted by security groups and what those groups are.
+
+You can see a [writeup of the solution here](https://www.loryanstrant.com/2025/02/03/power-bi-fabric-tenant-settings-reporter/).
+
+[Click here to download the PowerShell script](https://github.com/loryanstrant/PowerThings/blob/main/Power-BI-Tenant-Settings-Reporter.ps1)
+
+[Click here to download the Power BI report template](https://github.com/loryanstrant/PowerThings/blob/main/Power-BI-Tenant-Settings-Reporter.pbit)
+
+
+
 ## Privileged Identity Management (PIM) Elevations Reporter
 
 The workflow and Power BI report extracts a daily history of elevations from PIM in Entra ID and presents them in a Power BI report that can be shared with people who do not have an admin role.
