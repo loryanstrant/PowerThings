@@ -47,6 +47,18 @@ You can see a [writeup of the solution here](https://www.loryanstrant.com/2024/1
 
 
 
+## Microsoft 365 Copilot Usage Reporter
+
+The workflows and Power BI report extracts a daily history of user interactions with Microsoft 365 Copilot, and presents them in a Power BI report. This goes beyond the native reporting provided both in the admin center, Viva Insights, and the actual Copilot usage report provided by Microsoft.
+
+You can see a [writeup of the solution here](https://www.loryanstrant.com/2025/02/16/how-to-build-your-own-meaningful-microsoft-365-copilot-usage-reporting-system/).
+
+[Click here to download the solution file](https://github.com/loryanstrant/PowerThings/blob/main/M365-Copilot-Usage-Reporter.zip)
+
+[Click here to download the Power BI report template](https://github.com/loryanstrant/PowerThings/blob/main/M365-Copilot-Usage-Reporter.pbit)
+
+
+
 ## Microsoft 365 Roadmap Report
 
 A Power BI report that provides you with statistics and a more visual way to navigate the Microsoft 365 roadmap, including more sorting & filtering options.
