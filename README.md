@@ -75,7 +75,7 @@ This Power App displays whether you have been renewed as a MVP or not by checkin
 
 Created for the "scheduled maintenance" trolling as part of the MVP annual renewal cycle of 2022, and for literally no other purpose.
 
-You can see a [demo of it here](https://twitter.com/LoryanStrant/status/1543446263626354688).
+You can see a [demo of it here](https://github.com/loryanstrant/PowerThings/blob/main/MVPRenewalChecker-Demo.mp4).
 
 
 
