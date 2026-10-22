@@ -1,0 +1,149 @@
+{
+  "schema_version": "1.0",
+  "repository": "PowerThings",
+  "identity": {
+    "description": "This repository exists purely to store the random items I have created in Power Apps, Power Automate, and Power BI that may be of use to others.",
+    "default_branch": "main",
+    "languages": {
+      "PowerShell": 1
+    },
+    "topics": [],
+    "licence": "",
+    "file_count": 23
+  },
+  "start_here": {
+    "readme": "README.md",
+    "agents_md": "AGENTS.md",
+    "entry_points": [],
+    "decision_records": [],
+    "build_config": [],
+    "source_roots": [
+      "."
+    ]
+  },
+  "documentation": [
+    {
+      "path": ".github/copilot-instructions.md",
+      "title": "Copilot instructions — PowerThings",
+      "lines": 30,
+      "headings": [
+        {
+          "level": 2,
+          "text": "What this repo is",
+          "anchor": "what-this-repo-is"
+        },
+        {
+          "level": 2,
+          "text": "Repo shape (representative)",
+          "anchor": "repo-shape-representative"
+        },
+        {
+          "level": 2,
+          "text": "Conventions",
+          "anchor": "conventions"
+        },
+        {
+          "level": 2,
+          "text": "Never",
+          "anchor": "never"
+        }
+      ]
+    },
+    {
+      "path": "README.md",
+      "title": "Readme",
+      "lines": 157,
+      "headings": [
+        {
+          "level": 2,
+          "text": "Bloom Growth task sync with Microsoft To Do at scale",
+          "anchor": "bloom-growth-task-sync-with-microsoft-to-do-at-scale"
+        },
+        {
+          "level": 2,
+          "text": "Create To Do task from Teams message",
+          "anchor": "create-to-do-task-from-teams-message"
+        },
+        {
+          "level": 2,
+          "text": "Home office availability display",
+          "anchor": "home-office-availability-display"
+        },
+        {
+          "level": 2,
+          "text": "Microsoft 365 Copilot Trial Management",
+          "anchor": "microsoft-365-copilot-trial-management"
+        },
+        {
+          "level": 2,
+          "text": "Microsoft 365 Copilot Usage Reporter",
+          "anchor": "microsoft-365-copilot-usage-reporter"
+        },
+        {
+          "level": 2,
+          "text": "Microsoft 365 Roadmap Report",
+          "anchor": "microsoft-365-roadmap-report"
+        },
+        {
+          "level": 2,
+          "text": "MVP Renewal Checker",
+          "anchor": "mvp-renewal-checker"
+        },
+        {
+          "level": 2,
+          "text": "My Power Platform",
+          "anchor": "my-power-platform"
+        },
+        {
+          "level": 2,
+          "text": "Power BI Tenant Settings Reporter",
+          "anchor": "power-bi-tenant-settings-reporter"
+        },
+        {
+          "level": 2,
+          "text": "Privileged Identity Management (PIM) Elevations Reporter",
+          "anchor": "privileged-identity-management-pim-elevations-reporter"
+        },
+        {
+          "level": 2,
+          "text": "Rename a new recording in OneDrive and/or move it to SharePoint",
+          "anchor": "rename-a-new-recording-in-onedrive-andor-move-it-to-sharepoint"
+        },
+        {
+          "level": 2,
+          "text": "Scan for text on all SharePoint pages in a tenant",
+          "anchor": "scan-for-text-on-all-sharepoint-pages-in-a-tenant"
+        },
+        {
+          "level": 2,
+          "text": "What is my ID app",
+          "anchor": "what-is-my-id-app"
+        }
+      ]
+    }
+  ],
+  "code": {
+    "source_roots": [
+      "."
+    ],
+    "symbol_source": "repomix (tree-sitter signatures)",
+    "routes": [],
+    "files": []
+  },
+  "tests": [],
+  "operations": [],
+  "limitations": {
+    "unparsed_languages": [
+      "PowerShell"
+    ],
+    "excluded_dirs": [],
+    "code_map_truncated": false,
+    "code_map_symbols_capped": false,
+    "tracked_files_only": true
+  },
+  "generated": {
+    "source_commit": "7742eb7971da7f6f4bfc5eb76a2c94224485a2af",
+    "content_hash": "5572dafbdb9951c3",
+    "generator": "navgen"
+  }
+}
